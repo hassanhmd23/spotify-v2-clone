@@ -1,5 +1,5 @@
 import React from "react";
-import navigation from "../navigation";
+import navigation from "../lib/navigation";
 
 function sidebar() {
   return (
